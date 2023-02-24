@@ -1,0 +1,57 @@
+{
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.preferredDarkColorTheme": "GitHub Dark Default",
+  "workbench.preferredHighContrastColorTheme": "GitHub Dark High Contrast",
+  "workbench.preferredHighContrastLightColorTheme": "GitHub Light High Contrast",
+  "workbench.preferredLightColorTheme": "GitHub Light Default",
+  "window.autoDetectColorScheme": true,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "terminal.integrated.enablePersistentSessions": false,
+  "gitlens.autolinks": [
+    {
+      "prefix": "ENG1WRKFLO-",
+      "url": "https://jira.prod.bloomberg.com/browse/ENG1WRKFLO-<num>",
+      "ignoreCase": true
+    }
+  ],
+  "gitlens.integrations.enabled": true,
+  "gitlens.remotes": [
+    {
+      "domain": "bbgithub:",
+      "type": "GitHub"
+    }
+  ],
+  "editor.renderWhitespace": "none",
+  "copyGithubUrl.defaultBranchFallback": "main",
+  "copyGithubUrl.gitUrl": "bbgithub.dev.bloomberg.com",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "githubPullRequests.pullBranch": "never",
+  "rplus.checkTsPath.enabled": false,
+  "githubPullRequests.fileListLayout": "tree",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

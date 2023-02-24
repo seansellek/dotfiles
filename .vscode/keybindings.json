@@ -1,0 +1,14 @@
+[
+  {
+    "key": "f1",
+    "command": "workbench.view.extension.github-pull-requests"
+  },
+  {
+    "key": "ctrl+g p",
+    "command": "github:activePullRequest.focus"
+  },
+  {
+    "key": "f13",
+    "command": "workbench.action.findInFiles"
+  }
+]
