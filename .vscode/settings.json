@@ -53,5 +53,6 @@
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "cmake.configureOnOpen": true
 }
