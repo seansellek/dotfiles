@@ -4,6 +4,7 @@
     "github.vscode-pull-request-github",
     "mhutchie.git-graph",
     "mattlott.copy-github-url",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "llvm-vs-code-extensions.vscode-clangd"
   ]
 }
