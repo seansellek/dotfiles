@@ -31,8 +31,6 @@
     }
   ],
   "editor.renderWhitespace": "none",
-  "copyGithubUrl.defaultBranchFallback": "main",
-  "copyGithubUrl.gitUrl": "bbgithub.dev.bloomberg.com",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "diffEditor.ignoreTrimWhitespace": false,
   "[typescript]": {
@@ -49,9 +47,6 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "githubPullRequests.pullBranch": "never",
-  "rplus.checkTsPath.enabled": false,
-  "githubPullRequests.fileListLayout": "tree",
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
