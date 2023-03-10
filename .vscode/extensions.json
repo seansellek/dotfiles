@@ -3,8 +3,8 @@
     "github.github-vscode-theme",
     "github.vscode-pull-request-github",
     "mhutchie.git-graph",
-    "mattlott.copy-github-url",
     "eamodio.gitlens",
-    "llvm-vs-code-extensions.vscode-clangd"
+    "llvm-vs-code-extensions.vscode-clangd",
+    "esbenp.prettier-vscode"
   ]
 }
