@@ -5,6 +5,7 @@
     "mhutchie.git-graph",
     "eamodio.gitlens",
     "llvm-vs-code-extensions.vscode-clangd",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
   ]
 }
