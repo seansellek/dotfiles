@@ -54,5 +54,5 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "cmake.configureOnOpen": true,
-  "jest.autoRun": false
+  "jest.autoRun": "off"
 }
