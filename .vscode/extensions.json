@@ -3,6 +3,6 @@
     "github.github-vscode-theme",
     "github.vscode-pull-request-github",
     "mhutchie.git-graph",
-    "llvm-vs-code-extensions.vscode-clangd",
+    "llvm-vs-code-extensions.vscode-clangd"
   ]
 }
